@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\aseel_elsawy\aseel_elsawy\aseel_elsawy\bin\Debug\aseel_elsawy.exe.config
+C:\Users\HP\Desktop\aseel_elsawy\aseel_elsawy\aseel_elsawy\bin\Debug\aseel_elsawy.exe
+C:\Users\HP\Desktop\aseel_elsawy\aseel_elsawy\aseel_elsawy\bin\Debug\aseel_elsawy.pdb
+C:\Users\HP\Desktop\aseel_elsawy\aseel_elsawy\aseel_elsawy\obj\Debug\aseel_elsawy.exe
+C:\Users\HP\Desktop\aseel_elsawy\aseel_elsawy\aseel_elsawy\obj\Debug\aseel_elsawy.pdb
